@@ -1,4 +1,4 @@
-# paula-hann
+# paula-hanna
 This project is implmeneted using python.
 The test cases are taken from an excel sheet named Data.xls.
 The link of the sheet: C:\Users\Paula\PycharmProjects\pythonProject\seleniumscripts\Data.xls
